@@ -1,0 +1,2 @@
+# djapp
+First Django App
